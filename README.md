@@ -11,3 +11,8 @@ Guess the outcome of a coin flip and test your luck!
 
 -Saiman Says:(https://github.com/Nikishita2006/Saiman-says-game)
 A fun game where players to follow instructions only if the command starts with "Saiman", if "Saiman" is not there,players should ignore the instruction!
+
+Feel free to check out each game and try them out!
+
+---
+Made By M.Nikishita Reddy
