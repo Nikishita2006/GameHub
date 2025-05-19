@@ -7,11 +7,13 @@ Here are the fun projects I have created so far:
 A classic game where you play against the computer by choosing rock, paper or scissors
 
 -Coin Toss Game:(https://github.com/Nikishita2006/Coin_toss-game)
-Guess the outcome of a coin flip and test your luck!
+Guess the outcome of the coin flip and test your luck!
 
 -Saiman Says:(https://github.com/Nikishita2006/Saiman-says-game)
 A fun game where players to follow instructions only if the command starts with "Saiman", if "Saiman" is not there,players should ignore the instruction!
 
+-Number Guessing Game:(https://github.com/Nikishita2006/number_guessing_game)
+A fun Python console game, where you have to guess randomly generated number from 1-9
 Feel free to check out each game and try them out!
 
 ---
