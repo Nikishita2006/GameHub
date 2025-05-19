@@ -9,6 +9,9 @@ A classic game where you play against the computer by choosing rock, paper or sc
 -Coin Toss Game:(https://github.com/Nikishita2006/Coin_toss-game)
 Guess the outcome of the coin flip and test your luck!
 
+-India Quiz Game:(https://github.com/Nikishita2006/Quiz-game)
+An interactive game that tests your knowledge about India though easy,medium and hard level questions
+
 -Saiman Says:(https://github.com/Nikishita2006/Saiman-says-game)
 A fun game where players to follow instructions only if the command starts with "Saiman", if "Saiman" is not there,players should ignore the instruction!
 
